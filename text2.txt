@@ -5,3 +5,4 @@ ciuch ciuch
 lokomotywa odjezdza
 zmiana
 zmiana 2
+zmiana 3
