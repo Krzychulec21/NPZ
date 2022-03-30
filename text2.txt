@@ -4,3 +4,4 @@ Stoi na stacji lokomotywa
 ciuch ciuch
 lokomotywa odjezdza
 zmiana
+zmiana 2
